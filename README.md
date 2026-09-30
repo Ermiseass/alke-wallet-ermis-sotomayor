@@ -124,12 +124,12 @@ Se incluyen 20 pruebas automatizadas y un [informe de resultados](docs/INFORME_P
 
 El trabajo local tiene commits descriptivos y las ramas `main`, `feature/modelos` y `feature/crud`. Las ramas de funcionalidades conservan hitos de desarrollo; la documentación final está en `main`. El ZIP incluye una copia del repositorio Git para preservar el historial.
 
-Repositorio publicado: https://github.com/afuncionarioseduchiloe-bot/alke-wallet-ermis-sotomayor
+Repositorio publicado: https://github.com/Ermiseass/alke-wallet-ermis-sotomayor
 
 Se publicaron main, feature/modelos y feature/crud. Los siguientes comandos documentan la configuración del remoto y la subida (ya realizados):
 
 ```powershell
-git remote add origin https://github.com/afuncionarioseduchiloe-bot/alke-wallet-ermis-sotomayor.git
+git remote add origin https://github.com/Ermiseass/alke-wallet-ermis-sotomayor.git
 git push -u origin main
 git push origin feature/modelos feature/crud
 ```
@@ -146,5 +146,6 @@ El ORM expresa las relaciones como objetos y reduce la duplicación de SQL. Las 
 - [Documentación de Django 4.2](https://docs.djangoproject.com/en/4.2/).
 - [Transacciones de base de datos](https://docs.djangoproject.com/en/4.2/topics/db/transactions/).
 - [Fin de soporte de Django 4.2](https://www.djangoproject.com/weblog/2026/apr/07/security-releases/).
+
 
 
