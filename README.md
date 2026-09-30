@@ -124,15 +124,17 @@ Se incluyen 20 pruebas automatizadas y un [informe de resultados](docs/INFORME_P
 
 El trabajo local tiene commits descriptivos y las ramas `main`, `feature/modelos` y `feature/crud`. Las ramas de funcionalidades conservan hitos de desarrollo; la documentación final está en `main`. El ZIP incluye una copia del repositorio Git para preservar el historial.
 
-La publicación en GitHub queda pendiente de iniciar sesión en la cuenta del estudiante. Crear allí un repositorio vacío y luego, en esta carpeta:
+Repositorio publicado: https://github.com/afuncionarioseduchiloe-bot/alke-wallet-ermis-sotomayor
+
+Se publicaron main, feature/modelos y feature/crud. Los siguientes comandos documentan la configuración del remoto y la subida (ya realizados):
 
 ```powershell
-git remote add origin https://github.com/TU_USUARIO/alke-wallet-ermis-sotomayor.git
+git remote add origin https://github.com/afuncionarioseduchiloe-bot/alke-wallet-ermis-sotomayor.git
 git push -u origin main
 git push origin feature/modelos feature/crud
 ```
 
-Sustituir `TU_USUARIO` por el usuario real. Si GitHub solicita autenticación, usar el navegador o Git Credential Manager. No enviar contraseñas por chat. No subir `.venv`, bases locales ni secretos. El correo usado en los commits es un identificador local no verificado; puede ajustarse al correo noreply de la cuenta real en futuros commits.
+Sustituir `afuncionarioseduchiloe-bot` por el usuario real. Si GitHub solicita autenticación, usar el navegador o Git Credential Manager. No enviar contraseñas por chat. No subir `.venv`, bases locales ni secretos. El correo usado en los commits es un identificador local no verificado; puede ajustarse al correo noreply de la cuenta real en futuros commits.
 
 ## Reflexión técnica
 

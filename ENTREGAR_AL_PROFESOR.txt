@@ -2,7 +2,8 @@ ALKE WALLET - MODULO 7
 Estudiante: Ermis Sotomayor
 
 QUE ENTREGAR
-1. Enlace al repositorio de GitHub con el proyecto completo. PENDIENTE DE PUBLICAR.
+1. Repositorio publicado:
+   https://github.com/afuncionarioseduchiloe-bot/alke-wallet-ermis-sotomayor
 2. README.md: documentación técnica, arquitectura y forma de ejecutar.
 3. docs/INFORME_PRUEBAS.md y docs/resultados_pruebas.txt.
 4. Prototipo funcional incluido en el repositorio / ZIP, con docs/DEMOSTRACION.md.
@@ -20,13 +21,13 @@ Elige una contraseña local para ermis y abre http://127.0.0.1:8000.
 
 GITHUB
 Inicia sesión tú mismo en GitHub. No compartas tu contraseña.
-Una vez publicado, envía al profesor la URL real del repositorio.
+Envía al profesor la URL del repositorio indicada arriba.
 
-TEXTO SUGERIDO (completar el enlace antes de enviar)
+TEXTO SUGERIDO (listo para copiar)
 Profesor/a:
 Adjunto mi proyecto Alke Wallet correspondiente al módulo 7.
 El repositorio incluye código, documentación técnica, prototipo ejecutable,
 capturas e informe de pruebas.
-Repositorio: [pegar aquí el enlace real de GitHub]
+Repositorio: https://github.com/afuncionarioseduchiloe-bot/alke-wallet-ermis-sotomayor
 Estudiante: Ermis Sotomayor.
 
