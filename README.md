@@ -134,7 +134,7 @@ git push -u origin main
 git push origin feature/modelos feature/crud
 ```
 
-Sustituir `afuncionarioseduchiloe-bot` por el usuario real. Si GitHub solicita autenticación, usar el navegador o Git Credential Manager. No enviar contraseñas por chat. No subir `.venv`, bases locales ni secretos. El correo usado en los commits es un identificador local no verificado; puede ajustarse al correo noreply de la cuenta real en futuros commits.
+Si GitHub solicita autenticación, usar el navegador o Git Credential Manager. No enviar contraseñas por chat. No subir `.venv`, bases locales ni secretos. El correo usado en los commits es un identificador local no verificado; puede ajustarse al correo noreply de la cuenta real en futuros commits.
 
 ## Reflexión técnica
 
@@ -146,4 +146,5 @@ El ORM expresa las relaciones como objetos y reduce la duplicación de SQL. Las 
 - [Documentación de Django 4.2](https://docs.djangoproject.com/en/4.2/).
 - [Transacciones de base de datos](https://docs.djangoproject.com/en/4.2/topics/db/transactions/).
 - [Fin de soporte de Django 4.2](https://www.djangoproject.com/weblog/2026/apr/07/security-releases/).
+
 
