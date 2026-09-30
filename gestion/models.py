@@ -35,6 +35,8 @@ class Transaccion(models.Model):
     descripcion = models.CharField(max_length=160, blank=True)
     creada = models.DateTimeField(auto_now_add=True)
     class Meta:
+        verbose_name = 'transacción'
+        verbose_name_plural = 'transacciones'
         ordering = ['-creada', '-id']
         constraints = [models.CheckConstraint(check=models.Q(monto__gt=0), name='monto_positivo'),
             models.CheckConstraint(check=(models.Q(tipo='transferencia', destino__isnull=False) & ~models.Q(cuenta=models.F('destino'))) |
