@@ -1,0 +1,32 @@
+ALKE WALLET - MODULO 7
+Estudiante: Ermis Sotomayor
+
+QUE ENTREGAR
+1. Enlace al repositorio de GitHub con el proyecto completo. PENDIENTE DE PUBLICAR.
+2. README.md: documentación técnica, arquitectura y forma de ejecutar.
+3. docs/INFORME_PRUEBAS.md y docs/resultados_pruebas.txt.
+4. Prototipo funcional incluido en el repositorio / ZIP, con docs/DEMOSTRACION.md.
+5. Capturas de pantalla de docs/capturas/.
+
+El PDF admite prototipo O video: este trabajo incluye el prototipo ejecutable.
+Si el profesor pide video o capturas específicas del editor, usa el guion incluido.
+
+El ZIP sirve como respaldo y adjunto si la plataforma lo permite; no reemplaza
+el enlace a GitHub que pide la consigna.
+
+PARA ABRIR
+Instala Python 3.12, extrae el ZIP y ejecuta INICIAR.bat.
+Elige una contraseña local para ermis y abre http://127.0.0.1:8000.
+
+GITHUB
+Inicia sesión tú mismo en GitHub. No compartas tu contraseña.
+Una vez publicado, envía al profesor la URL real del repositorio.
+
+TEXTO SUGERIDO (completar el enlace antes de enviar)
+Profesor/a:
+Adjunto mi proyecto Alke Wallet correspondiente al módulo 7.
+El repositorio incluye código, documentación técnica, prototipo ejecutable,
+capturas e informe de pruebas.
+Repositorio: [pegar aquí el enlace real de GitHub]
+Estudiante: Ermis Sotomayor.
+

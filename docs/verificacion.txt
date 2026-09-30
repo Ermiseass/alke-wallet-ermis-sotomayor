@@ -1,0 +1,14 @@
+$ python manage.py check
+System check identified no issues (0 silenced).
+
+$ python manage.py makemigrations --check --dry-run
+No changes detected
+
+$ python manage.py showmigrations gestion
+gestion
+ [X] 0001_initial
+ [X] 0002_alter_transaccion_options
+
+$ python manage.py collectstatic --noinput
+
+126 static files copied to 'C:\Users\ADMINISTRACIÓN\Documents\Codex\2026-09-30\cre\outputs\Alke_Wallet_Ermis_Sotomayor\staticfiles'.
